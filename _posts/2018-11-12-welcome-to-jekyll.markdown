@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Te iubesc piscutz!"
 date:   2018-11-12 20:31:50 +0000
 categories: jekyll update
 ---
