@@ -9,7 +9,7 @@
 title: Things I say ...
 email: vlad.maniac@p4b.ro
 description: > # this means to ignore newlines until "baseurl:"
-  This is a record of the heart
+  This is a record of what's happening in a little corner of the world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://everythingisay.net" # the base hostname & protocol for your site
 twitter_username: unchiu_maniac
