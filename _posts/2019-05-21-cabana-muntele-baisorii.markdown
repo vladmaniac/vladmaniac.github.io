@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "TO DO LIST - CABANA Statiunea Muntele Baisorii"
+title:  "To do list for the Winter Cottage House - Statiunea Muntele Baisorii"
 date:   2019-05-20 20:31:50 +0000
 categories: jekyll update
 ---
 ---
-### TO DO LIST CABANA
+### TO DO LIST Winter Cottage House
 ![image-title-here](/img/cabana.jpg){:class="img-responsive"}
 1. [ ] living: placat cu rigips, kit, zgravit. placat cu piatra naturala semineul
 2. [ ] bucataria: re-zugravit, mobila, electrocasnice
