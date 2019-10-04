@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winter Cottage House - Statiunea Muntele Baisorii"
+title:  "Winter Cottage House - Statiunea Muntele Baisorii - 0755 850071"
 date:   2019-10-04 15:45:50 +0000
 categories: jekyll update
 ---
