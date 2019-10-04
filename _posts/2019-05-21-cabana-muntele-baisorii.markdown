@@ -7,6 +7,11 @@ categories: jekyll update
 ---
 ### TO DO LIST Winter Cottage House
 ![image-title-here](/img/cabana.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG_0075.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG_0076.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG_0077.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG_0083.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG_0087.jpg){:class="img-responsive"}
 1. [ ] living: placat cu rigips, kit, zgravit. placat cu piatra naturala semineul
 2. [ ] bucataria: re-zugravit, mobila, electrocasnice
 3. [ ] lacuit holurile
